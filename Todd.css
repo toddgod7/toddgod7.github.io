@@ -1,0 +1,78 @@
+.heading{
+	font-size: 50px;
+	color: white;
+	background-color: DodgerBlue;
+	text-align: right;
+	margin: 0;
+	padding: 40px 90px 0px 0px;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+}
+
+div.leftrow{
+	font-size: 20px;
+	color: darkgray;
+	background-color: dimgray;
+	line-height: 150%;
+	text-align: justify;
+	padding: 5px 30px;
+	max-width: 65%;
+}
+
+div.rightrow{
+	font-size: 20px;
+	color: darkgray;
+	background-color: black;
+	line-height: 80%;
+	text-align: justify;
+	padding: 5px 30px;
+	max-width: 35%;
+}
+
+.leftrowtitle{
+	font-size:32px; 
+	color:DodgerBlue; 
+	background-color: dimgray; 
+	text-align: left; 
+	padding-left: 0;
+}
+
+.leftbar{
+	font-size: 20px;
+	color: white;
+	background-color: DodgerBlue;
+	line-height: 100%;
+	text-align: center;
+	padding: 5px 10px;
+	margin-top: 5px;
+	margin-bottom: 2px;
+
+}
+
+.rightbar{
+	background-color: lightgray;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+footer{
+	color:white;
+	font-size: 20px;
+	background-color: DodgerBlue;
+	line-height: 80%;
+	text-align: center; 
+	max-width:100%;
+	padding: 5px 30px;
+}
+
+a:visited{
+	color:white;
+}
+
+
+
+
+
